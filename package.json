@@ -1,6 +1,6 @@
 {
   "name": "@yankewei/pi-web-search",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "pi extension that exposes provider-native web search for DeepSeek Responses and OpenAI Codex GPT-5.6 models",
   "type": "module",
   "repository": {
